@@ -97,10 +97,10 @@ The last class is the SFX class, which is responsible for storing the effects of
 sound so that they can then be used when they are needed, either when there is a
 explosion, or a bullet is fired.
 
-<div id="header" align="center">
-  <img src="https://github.com/Lelmats/SFML_-Game-Final/tree/main/img/1.png" width="200"/>
-</div>
+
 Figure 1. Classes
+
+![INDEX](img/1.png)
 
 The sprites were drawn and animated using Aseprite. To create the player,
 First it was thought about how it should be, its shape, its colors, etc. using images
@@ -112,6 +112,8 @@ more grayish color for this one; adding animations when idle,
 in the flames of the ship's fire, in addition to an effect when it comes to being destroyed.
 
 Figure 2. Player Ship: Before and After
+
+![INDEX](img/2.png)
 
 For the enemy ships, the same approach was used but based on
 different models for creating these and using the palettes that we
@@ -126,6 +128,8 @@ More like a direct antagonist to the player, it is the fastest and strongest shi
 
 Figure 3. Enemy ships
 
+![INDEX](img/3.png)
+
 The stations were intended to be used as cover for the player, these would suffer
 damage if they collided with an enemy ship, but due to some changes it was decided
 modify that idea, causing them to serve to cure the damage caused by
@@ -133,11 +137,15 @@ the enemies which will be found on the map.
 
 Figure 4. Health station
 
+![INDEX](img/4.png)
+
 The map is space, above the Earth's atmosphere. At the bottom,
 Find the planet that must be protected. While the enemies come
 on the right side of the map, and the player has to destroy them.
 
 Figure 5. Background
+
+![INDEX](img/5.png)
 
 Results
 The final result was a game where they will have to shoot at enemy ships
@@ -152,6 +160,8 @@ the match. In addition to being able to recover life through the seasons that ar
 used for it.
 
 Figure 6. Results
+
+![INDEX](img/6.png)
 
 Conclusions
 This project served a lot of learning for us with C++ and SFML, since
