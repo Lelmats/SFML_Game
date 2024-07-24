@@ -97,6 +97,9 @@ The last class is the SFX class, which is responsible for storing the effects of
 sound so that they can then be used when they are needed, either when there is a
 explosion, or a bullet is fired.
 
+<div id="header" align="center">
+  <img src="https://github.com/Lelmats/SFML_-Game-Final/tree/main/img/1.png" width="200"/>
+</div>
 Figure 1. Classes
 
 The sprites were drawn and animated using Aseprite. To create the player,
